@@ -14,8 +14,8 @@ The Sales Dashboard – Data Analytics project analyzes sales data to understand
 ---
 ## 📁 Project Files
 - <a href="https://github.com/navitha0620/FNP_Sales_Dashboard-Data-Analytics/blob/main/fnp_dashboard.xlsx">FNP Sales Data</a> – Main Excel dashboard file  
-- `Sales_Dashboard.png` – Dashboard screenshot  
-- `README.md` – Project documentation  
+- <a href="https://github.com/navitha0620/FNP_Sales_Dashboard-Data-Analytics/blob/main/FNP_Sales.png">FNP Sales Overview</a> – Dashboard screenshot  
+- <a href="https://github.com/navitha0620/FNP_Sales_Dashboard-Data-Analytics/blob/main/README.md">README.md</a> – Project documentation  
 
 ---
 ## 🛠️ Tools Used
@@ -42,7 +42,7 @@ This Sales Dashboard project demonstrates how sales data can be converted into m
 
 ---
 ## 🚀 How to Use
-1. Open `Sales_Dashboard.xlsx` in Microsoft Excel  
+1. Open <a href="https://github.com/navitha0620/FNP_Sales_Dashboard-Data-Analytics/blob/main/fnp_dashboard.xlsx">FNP Sales Data</a> in Microsoft Excel  
 2. Navigate through the dashboard sheets  
 3. Use slicers to filter data by date, occasion, or category  
 
